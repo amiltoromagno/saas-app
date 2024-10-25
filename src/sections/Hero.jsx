@@ -17,7 +17,7 @@ const Hero = () => {
               We designed XORA AI Video Editor to be powerful, ease to use and quick to learn.
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
-              <Button icon="/images/zap.svg">Try it now</Button>
+              <Button icon="/saas-app/images/zap.svg">Try it now</Button>
             </LinkScroll>
           </div>
 
